@@ -24,7 +24,8 @@
   "homepage": "https://github.com/learn-co-curriculum/js-ajax-callbacks-lab#readme",
   "dependencies": {
     "expect": "^1.20.2",
-    "jquery": "^3.1.0",
+    "handlebars": "^4.1.2",
+    "jquery": "^3.4.0",
     "jsdom": "^9.4.1",
     "mocha": "^5.2.0",
     "mocha-jsdom": "~1.1.0",
